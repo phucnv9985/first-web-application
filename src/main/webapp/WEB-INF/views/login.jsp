@@ -7,7 +7,7 @@
 <title>Yahoo!!!!!!!! From JSP</title>
 </head>
 <body>
-<form action="/login.do" method="post">
+<form action="/spring-mvc/login" method="post">
 	Enter your name: <input type="text" name="name"/> <input type="submit" value="Submit"/>
 </form>
 </body>
